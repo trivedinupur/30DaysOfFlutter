@@ -23,3 +23,11 @@ Links for further exploration:
 1. https://m3.material.io/develop/flutter
 1. https://www.30dayscoding.com/roadmaps/flutter
 1. https://www.youtube.com/@Afgprogrammer/featured
+
+## Day 2
+
+Learnt basics of dark and did dart basic codelabs
+
+## Day 3
+
+Widgets and UI
